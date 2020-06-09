@@ -37,7 +37,9 @@ In your `constructor` of a required component import the service as follow
 Add the dependency on construtor as follows
 
 >  constructor(private title: NgxPageTitleService) {
+
 >   `this.title.setTitle("title goes here")`
+
 > }
 
 

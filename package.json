@@ -1,0 +1,48 @@
+{
+  "name": "ngx-page-title",
+  "author": {
+    "name": "Manojkumar Muthukumar",
+    "email": "manoj1010196@gmail.com"
+  },
+  "description": "Application title",
+  "version": "0.0.3",
+  "peerDependencies": {
+    "@angular/common": "^9.1.9",
+    "@angular/core": "^9.1.9"
+  },
+  "dependencies": {
+    "tslib": "^1.10.0"
+  },
+  "icon": "https://image.flaticon.com/icons/svg/3022/3022325.svg",
+  "keywords": [
+    "angular",
+    "ngx",
+    "ng9",
+    "service",
+    "page",
+    "title",
+    "dynamic",
+    "dynamic title",
+    "window",
+    "tab",
+    "tab title",
+    "ngx-page-title",
+    "manoj10101996",
+    "uiconfig"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/manoj10101996/ngx-page-title"
+  },
+  "main": "bundles/ngx-page-title.umd.js",
+  "module": "fesm5/ngx-page-title.js",
+  "es2015": "fesm2015/ngx-page-title.js",
+  "esm5": "esm5/ngx-page-title.js",
+  "esm2015": "esm2015/ngx-page-title.js",
+  "fesm5": "fesm5/ngx-page-title.js",
+  "fesm2015": "fesm2015/ngx-page-title.js",
+  "typings": "ngx-page-title.d.ts",
+  "metadata": "ngx-page-title.metadata.json",
+  "sideEffects": false
+}

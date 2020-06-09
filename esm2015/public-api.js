@@ -1,0 +1,7 @@
+/*
+ * Public API Surface of ngx-page-title
+ */
+export * from './lib/ngx-page-title.service';
+export * from './lib/ngx-page-title.component';
+export * from './lib/ngx-page-title.module';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljLWFwaS5qcyIsInNvdXJjZVJvb3QiOiJuZzovL25neC1wYWdlLXRpdGxlLyIsInNvdXJjZXMiOlsicHVibGljLWFwaS50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTs7R0FFRztBQUVILGNBQWMsOEJBQThCLENBQUM7QUFDN0MsY0FBYyxnQ0FBZ0MsQ0FBQztBQUMvQyxjQUFjLDZCQUE2QixDQUFDIiwic291cmNlc0NvbnRlbnQiOlsiLypcbiAqIFB1YmxpYyBBUEkgU3VyZmFjZSBvZiBuZ3gtcGFnZS10aXRsZVxuICovXG5cbmV4cG9ydCAqIGZyb20gJy4vbGliL25neC1wYWdlLXRpdGxlLnNlcnZpY2UnO1xuZXhwb3J0ICogZnJvbSAnLi9saWIvbmd4LXBhZ2UtdGl0bGUuY29tcG9uZW50JztcbmV4cG9ydCAqIGZyb20gJy4vbGliL25neC1wYWdlLXRpdGxlLm1vZHVsZSc7XG4iXX0=
